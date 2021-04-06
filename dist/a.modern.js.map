@@ -1,0 +1,1 @@
+{"version":3,"file":"a.modern.js","sources":["../src/index.js"],"sourcesContent":["\r\nexport const print = (...args) => {\r\n    console.log(...args);\r\n};\r\n"],"names":["print","args","console","log"],"mappings":"MACaA,KAAK,GAAG,CAAC,GAAGC,IAAJ,KAAa;AAC9BC,EAAAA,OAAO,CAACC,GAAR,CAAY,GAAGF,IAAf;AACH;;;;"}

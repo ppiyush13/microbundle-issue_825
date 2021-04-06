@@ -1,0 +1,1 @@
+{"version":3,"file":"a.umd.js","sources":["../src/index.js"],"sourcesContent":["\r\nexport const print = (...args) => {\r\n    console.log(...args);\r\n};\r\n"],"names":["print","console","log"],"mappings":";;;;;QACaA,KAAK,GAAG,SAARA,KAAQ,GAAa;IAAA;;IAC9B,cAAAC,OAAO,EAACC,GAAR;IACH;;;;;;;;"}
